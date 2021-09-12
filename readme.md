@@ -58,6 +58,7 @@ Pratik yapmak için aşağıdaki adreslerden ücretsiz tasarımlar bulabilirsini
 - [Behance](https://www.behance.net/)
 - [Adobe XD](https://www.adobe.com/products/xd/features/ui-kits.html)
 - [UI8 Freebies](https://ui8.net/categories/freebies)
+- [uidesigndaily](https://www.uidesigndaily.com/)
 
 ## Mentor
 Öğrenim sırasında yönlendirmeye ihtiyaç duyulduğunda destek olabilecek bir mentorden destek almanız süreci oldukça hızlandıracaktır.
