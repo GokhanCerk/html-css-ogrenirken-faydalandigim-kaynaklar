@@ -1,6 +1,7 @@
 # HTML/CSS Öğrenirken Faydalandığım Kaynaklar
 
 ## Video Eğitimler
+
 - [Yazılıma nasıl başlarım?](https://www.youtube.com/watch?v=U6dQVWHqmSM)
 - [Front-End’e yeni başlayanlara ne önerirsiniz?](https://www.youtube.com/watch?v=c_l31_lmFk8)
 - [HTML Dersleri](https://www.youtube.com/watch?v=jiCSs0Weiqk&list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm)
@@ -20,6 +21,9 @@
 - [BEM Metodolojisi Kullanım Örneği](https://www.youtube.com/watch?v=vg6vq-KMXTw)
 - [BEM Kullanımı](https://www.youtube.com/watch?v=SLjHSVwXYq4)
 - [BEM Kullanımı 2](https://www.youtube.com/watch?v=er1JEDuPbZQ)
+
+## Udemy Kursları 🤑
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 
 
 ## Yardımcı Kaynaklar
 - [HTML Elemanları](https://www.w3schools.com/tags/default.asp)
@@ -59,10 +63,6 @@ Pratik yapmak için aşağıdaki adreslerden ücretsiz tasarımlar bulabilirsini
 - [Adobe XD](https://www.adobe.com/products/xd/features/ui-kits.html)
 - [UI8 Freebies](https://ui8.net/categories/freebies)
 - [uidesigndaily](https://www.uidesigndaily.com/)
-
-## Mentor
-Öğrenim sırasında yönlendirmeye ihtiyaç duyulduğunda destek olabilecek bir mentorden destek almanız süreci oldukça hızlandıracaktır.
-[Find Mentor](https://findmentor.network/) topluluğuna katılarak bir mentor edinebilirsiniz.
 
 ## Pratik Yaptığım Çalışmalar
 - [Personal Blog Template](https://github.com/hey-fk/personal-blog-template)
